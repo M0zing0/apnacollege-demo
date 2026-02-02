@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first Git Repository
 <br>
-Author - Anwesh Dwivedy
+Author - Anwesh Dwivedy (Mz)
